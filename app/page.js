@@ -38,6 +38,10 @@ export default function Home() {
             center.
           </p>
         </div>
+        <ul>
+          <li>Save and see your changes instantly.</li>
+          <li>こんにちは</li>
+        </ul>
         <div className={styles.ctas}>
           <a
             className={styles.primary}
